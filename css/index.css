@@ -19,15 +19,15 @@ img {
 .top{
 	margin: auto;
     border: 3px solid #73AD21;
-    padding: 10px;
 }
 
 
 #name{
 	color: green;
 	font: bold Times New Roman;
-	text-align: center
 	vertical-align:text-top;
+	text-align: center
+	
 }
 
 #proPic{
