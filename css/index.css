@@ -14,20 +14,18 @@ img {
 
 .top{
 	margin: auto;
-	height: 250px;
+	overflow: auto;
 	border: 3px solid green; 
 }
 
 
 #name{
-	color: orange;
+	color: green;
 	font: bold Times New Roman;
 	text-align: center
 	
 }
 
 #proPic{
-	display: inline-block;
-	left:0px;
-	top:0px;
+	text-align: left;
 }
