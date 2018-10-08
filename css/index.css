@@ -14,12 +14,19 @@ img {
 
 .top{
 	margin: auto;
-	border: 3px solid green;
-	text-align: center;
-	color: red;
-	font: 30px bold Times New Roman;
+	border: 3px solid green; 
+}
+
+
+#name{
+	color: green;
+	font: bold Times New Roman;
+	text-align: center
+	
 }
 
 #proPic{
-	float: left;
+	left: 0px;
+	top: 0px;
+	display: inline-block;
 }
