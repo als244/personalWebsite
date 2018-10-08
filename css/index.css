@@ -19,9 +19,10 @@ img {
 }
 
 #name{
-	color: green;
+	color: pink;
 	font: 50px bold Times New Roman;
 	text-align: center;	
+	margin-top:0px;
 }
 
 .proPic{
