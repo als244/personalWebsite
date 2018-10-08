@@ -8,6 +8,7 @@ body {
 	background-repeat: no-repeat;
 }
 
-#top{
+#name{
 	color:Tomato;
+	font: bold Times New Roman;
 }
