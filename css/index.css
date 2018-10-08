@@ -20,12 +20,12 @@ img {
 
 
 #name{
-	color: orange;
+	color: red;
 	font: bold Times New Roman;
 	text-align: center
 }
 
 #proPic{
-	width:25%;
-	height:25%;
+	width:20%;
+	height:20%;
 }
