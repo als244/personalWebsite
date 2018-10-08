@@ -14,13 +14,12 @@ img {
 
 .top{
 	margin: auto;
-	width: 400px;
 	border: 3px solid green;
 }
 
 
 #name{
-	color: red;
+	color: green;
 	font: bold Times New Roman;
 	text-align: center
 	
@@ -28,5 +27,6 @@ img {
 
 #proPic{
 	left: 0px;
+	top: 0px;
 	display: inline-block;
 }
