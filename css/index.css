@@ -33,5 +33,6 @@ img {
 #proPic{
 	width:20%;
 	height:20%;
+	float: left;
 	text-align: inline;
 }
