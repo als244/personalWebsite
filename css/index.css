@@ -9,7 +9,7 @@ body {
 }
 
 img {
-	display: inline-block;
+	
 }
 
 .center{
@@ -21,7 +21,12 @@ img {
 
 
 #name{
-	color: green;
+	color: red;
 	font: bold Times New Roman;
 	text-align: center
+}
+
+#proPic{
+	display: inline;
+	width: 10%;
 }
