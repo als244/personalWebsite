@@ -9,7 +9,7 @@ body {
 }
 
 img {
-	
+
 }
 
 .top{
@@ -19,7 +19,7 @@ img {
 }
 
 #name{
-	color: pink;
+	color: green;
 	font: 50px bold Times New Roman;
 	text-align: center;	
 }
@@ -27,5 +27,6 @@ img {
 .proPic{
 	width: 200px;
 	height: 200px;
+	margin: 0px;
 	text-align: left;
 }
