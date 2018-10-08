@@ -13,12 +13,12 @@ img {
 }
 
 .top{
-	margin: auto;
+	margin: 0px 10px 10px 10px;
 }
 
 
 #name{
-	color: green;
+	color: orange;
 	font: bold Times New Roman;
 	text-align: center
 	
