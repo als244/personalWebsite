@@ -21,12 +21,11 @@ img {
 
 
 #name{
-	color: orange;
+	color: green;
 	font: bold Times New Roman;
 	text-align: center
 }
 
 #proPic{
 	display: inline;
-	width: 100%;
 }
