@@ -19,14 +19,13 @@ img {
 }
 
 #name{
-	color: orange;
+	color: green;
 	font: 50px bold Times New Roman;
-	text-align: center;
-	display: inline-block;
-	
+	text-align: center;	
 }
 
-#proPic{
+.proPic{
+	width: 200;
+	height: 200;
 	text-align: left;
-	display: inline-block;
 }
