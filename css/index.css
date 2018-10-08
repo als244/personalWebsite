@@ -1,8 +1,13 @@
 
 html {
-	color:red;	
+		
 }
 
 body {
 	background-image: url(../img/network.jpg);
+	background-repeat: no-repeat;
+}
+
+#top{
+	color:Tomato;
 }
