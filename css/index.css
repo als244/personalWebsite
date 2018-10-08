@@ -19,6 +19,7 @@ img {
 .top{
 	margin: auto;
     border: 3px solid #73AD21;
+    padding: 10px;
 }
 
 
@@ -26,9 +27,11 @@ img {
 	color: orange;
 	font: bold Times New Roman;
 	text-align: center
+	vertical-align:text-top;
 }
 
 #proPic{
 	width:20%;
 	height:20%;
+	text-align: inline;
 }
