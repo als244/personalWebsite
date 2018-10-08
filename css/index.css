@@ -1,14 +1,20 @@
 
-html {
-		
+html {	
+	background-image: url(../img/network.jpg);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover ;
+	background-size: cover;
 }
 
 body {
-	background-image: url(../img/network.jpg);
-	background-repeat: no-repeat;
+
 }
 
 #name{
 	color:Tomato;
 	font: bold Times New Roman;
+	border-left: 6px solid red;
+	background-color: lightgrey;
 }
