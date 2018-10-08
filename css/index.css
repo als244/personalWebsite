@@ -25,7 +25,6 @@ img {
 #name{
 	color: green;
 	font: bold Times New Roman;
-	vertical-align:text-top;
 	text-align: center
 	
 }
@@ -34,5 +33,4 @@ img {
 	width:20%;
 	height:20%;
 	float: left;
-	text-align: inline;
 }
