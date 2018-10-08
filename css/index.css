@@ -9,6 +9,8 @@ body {
 }
 
 img {
+	width: inherit;
+	height: inherit;
 	
 }
 
@@ -19,7 +21,7 @@ img {
 }
 
 #name{
-	color: green;
+	color: pink;
 	font: 50px bold Times New Roman;
 	text-align: center;	
 }
