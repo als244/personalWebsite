@@ -12,7 +12,7 @@ img {
 	
 }
 
-.center{
+.top{
 	margin: auto;
     border: 3px solid #73AD21;
     padding: 10px;
@@ -26,6 +26,6 @@ img {
 }
 
 #proPic{
-	width:15%;
-	height:15%;
+	width:20%;
+	height:20%;
 }
