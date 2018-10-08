@@ -1,5 +1,8 @@
 
 html {
-	color:blue;
-	background-image: url("/img/network.jpg");
+	color:green;
+}
+
+body {
+	background-image: url('/img/network.jpg');
 }
