@@ -22,9 +22,11 @@ img {
 	color: orange;
 	font: 50px bold Times New Roman;
 	text-align: center;
+	display: inline-block;
 	
 }
 
 #proPic{
 	text-align: left;
+	display: inline-block;
 }
