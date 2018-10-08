@@ -1,11 +1,15 @@
 
 html {	
-	background-image: url(../img/background.jpg);
+	background-image: url(../images/background.jpg);
 	background-repeat: no-repeat;
 }
 
 body {
 
+}
+
+img {
+	display: inline-block;
 }
 
 .center{
