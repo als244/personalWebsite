@@ -16,13 +16,16 @@ img {
 	margin: auto;
 	overflow: auto;
 	border: 3px solid green; 
+	text-align: center;
+	color: orange;
+	font: 50px bold Times New Roman;
 }
 
 
 #name{
 	color: green;
 	font: bold Times New Roman;
-	text-align: center
+	text-align: center;
 	
 }
 
